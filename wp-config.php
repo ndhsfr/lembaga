@@ -29,7 +29,7 @@ define( 'DB_USER', 'user_lpm_unimugo' );
 define( 'DB_PASSWORD', 'LpmUnimugo2026!#' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'm81jdl4l6smc87d7sauqhyxy' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
