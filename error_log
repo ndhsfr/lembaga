@@ -1,0 +1,395 @@
+[17-Nov-2019 09:27:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=25813 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[17-Nov-2019 09:27:32 UTC] PHP Warning:  Error while sending QUERY packet. PID=25822 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[17-Nov-2019 09:27:42 UTC] PHP Warning:  Error while sending QUERY packet. PID=25839 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[17-Nov-2019 09:27:51 UTC] PHP Warning:  Error while sending QUERY packet. PID=25871 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[17-Nov-2019 09:27:58 UTC] PHP Warning:  Error while sending QUERY packet. PID=25903 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[17-Nov-2019 09:30:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=26399 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[17-Nov-2019 09:30:41 UTC] PHP Warning:  Error while sending QUERY packet. PID=26577 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[17-Nov-2019 09:30:52 UTC] PHP Warning:  Error while sending QUERY packet. PID=26610 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[17-Nov-2019 09:30:59 UTC] PHP Warning:  Error while sending QUERY packet. PID=26630 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[17-Nov-2019 09:32:48 UTC] PHP Warning:  Error while sending QUERY packet. PID=27005 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[17-Nov-2019 09:32:57 UTC] PHP Warning:  Error while sending QUERY packet. PID=27031 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[17-Nov-2019 09:33:02 UTC] PHP Warning:  Error while sending QUERY packet. PID=27055 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[17-Nov-2019 09:33:08 UTC] PHP Warning:  Error while sending QUERY packet. PID=27082 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[19-Nov-2019 07:27:30 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/formatting.php on line 5753
+[19-Nov-2019 07:27:30 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/formatting.php on line 5753
+[19-Nov-2019 07:27:31 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/formatting.php on line 5753
+[19-Nov-2019 07:27:32 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/formatting.php on line 5753
+[19-Nov-2019 07:27:40 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 176
+[19-Nov-2019 07:27:44 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 175
+[20-Nov-2019 00:12:54 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 175
+[20-Nov-2019 00:12:54 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 176
+[20-Nov-2019 00:12:54 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 178
+[20-Nov-2019 00:12:54 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 176
+[20-Nov-2019 00:13:31 UTC] PHP Warning:  Error while sending QUERY packet. PID=28952 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[20-Nov-2019 00:13:31 UTC] PHP Warning:  Error while sending QUERY packet. PID=28967 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[20-Nov-2019 00:13:31 UTC] PHP Warning:  Error while sending QUERY packet. PID=28961 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[20-Nov-2019 00:13:32 UTC] PHP Warning:  Error while sending QUERY packet. PID=28937 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[20-Nov-2019 00:13:32 UTC] PHP Warning:  Error while sending QUERY packet. PID=28960 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[20-Nov-2019 00:13:32 UTC] PHP Warning:  Error while sending QUERY packet. PID=28925 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[20-Nov-2019 00:13:32 UTC] PHP Warning:  Error while sending QUERY packet. PID=28934 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[20-Nov-2019 00:13:33 UTC] PHP Warning:  Error while sending QUERY packet. PID=28966 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[20-Nov-2019 00:13:34 UTC] PHP Warning:  Error while sending QUERY packet. PID=28919 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[20-Nov-2019 00:13:34 UTC] PHP Warning:  Error while sending QUERY packet. PID=28920 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[20-Nov-2019 00:13:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=28936 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[20-Nov-2019 00:13:36 UTC] PHP Warning:  Error while sending QUERY packet. PID=28924 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[20-Nov-2019 00:13:37 UTC] PHP Warning:  Error while sending QUERY packet. PID=28916 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[20-Nov-2019 00:13:37 UTC] PHP Warning:  Error while sending QUERY packet. PID=28953 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[20-Nov-2019 00:13:38 UTC] PHP Warning:  Error while sending QUERY packet. PID=28938 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[20-Nov-2019 00:13:40 UTC] PHP Warning:  Error while sending QUERY packet. PID=29003 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[20-Nov-2019 00:13:40 UTC] PHP Warning:  Error while sending QUERY packet. PID=29006 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:06:49 UTC] PHP Warning:  Error while sending QUERY packet. PID=30138 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:06:52 UTC] PHP Warning:  Error while sending QUERY packet. PID=30099 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:06:58 UTC] PHP Warning:  Error while sending QUERY packet. PID=30165 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:07:03 UTC] PHP Warning:  Error while sending QUERY packet. PID=30223 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:07:07 UTC] PHP Warning:  Error while sending QUERY packet. PID=30245 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:07:09 UTC] PHP Warning:  Error while sending QUERY packet. PID=30259 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:07:14 UTC] PHP Warning:  Error while sending QUERY packet. PID=30280 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:08:48 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:08:48 UTC] PHP Warning:  Error while sending QUERY packet. PID=30534 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:08:48 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:08:55 UTC] PHP Warning:  Error while sending QUERY packet. PID=30568 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:09:01 UTC] PHP Warning:  Error while sending QUERY packet. PID=30553 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:09:02 UTC] PHP Warning:  Error while sending QUERY packet. PID=30581 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:09:08 UTC] PHP Warning:  Error while sending QUERY packet. PID=30599 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:09:13 UTC] PHP Warning:  Error while sending QUERY packet. PID=30619 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:09:19 UTC] PHP Warning:  Error while sending QUERY packet. PID=30636 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:09:29 UTC] PHP Warning:  Error while sending QUERY packet. PID=30652 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:10:19 UTC] PHP Warning:  Error while sending QUERY packet. PID=30832 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:10:19 UTC] PHP Warning:  Error while sending QUERY packet. PID=30991 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:10:21 UTC] PHP Warning:  Error while sending QUERY packet. PID=30795 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:10:28 UTC] PHP Warning:  Error while sending QUERY packet. PID=30870 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:10:28 UTC] PHP Warning:  Error while sending QUERY packet. PID=30808 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:10:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=30896 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:10:45 UTC] PHP Warning:  Error while sending QUERY packet. PID=30911 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:10:48 UTC] PHP Warning:  Error while sending QUERY packet. PID=30937 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:10:55 UTC] PHP Warning:  Error while sending QUERY packet. PID=30951 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:11:00 UTC] PHP Warning:  Error while sending QUERY packet. PID=30961 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:11:01 UTC] PHP Warning:  Error while sending QUERY packet. PID=30976 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:12:04 UTC] PHP Warning:  Error while sending QUERY packet. PID=31106 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:12:04 UTC] PHP Warning:  Error while sending QUERY packet. PID=31101 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:12:16 UTC] PHP Warning:  Error while sending QUERY packet. PID=31128 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:12:33 UTC] PHP Warning:  Error while sending QUERY packet. PID=31146 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:12:40 UTC] PHP Warning:  Error while sending QUERY packet. PID=31182 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:12:47 UTC] PHP Warning:  Error while sending QUERY packet. PID=31203 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:12:53 UTC] PHP Warning:  Error while sending QUERY packet. PID=31223 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:13:06 UTC] PHP Warning:  Error while sending QUERY packet. PID=31463 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:13:07 UTC] PHP Warning:  Error while sending QUERY packet. PID=31241 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:13:08 UTC] PHP Warning:  Error while sending QUERY packet. PID=31253 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:13:14 UTC] PHP Warning:  Error while sending QUERY packet. PID=31223 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:13:37 UTC] PHP Warning:  Error while sending QUERY packet. PID=31404 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:13:36 UTC] PHP Warning:  Error while sending QUERY packet. PID=31413 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:13:37 UTC] PHP Warning:  Error while sending QUERY packet. PID=31419 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:13:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=31435 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:13:42 UTC] PHP Warning:  Error while sending QUERY packet. PID=31452 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:14:43 UTC] PHP Warning:  Error while sending QUERY packet. PID=31835 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:14:43 UTC] PHP Warning:  Error while sending QUERY packet. PID=31603 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:14:44 UTC] PHP Warning:  Error while sending QUERY packet. PID=31626 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:14:46 UTC] PHP Warning:  Error while sending QUERY packet. PID=31679 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:14:52 UTC] PHP Warning:  Error while sending QUERY packet. PID=31649 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:14:57 UTC] PHP Warning:  Error while sending QUERY packet. PID=31705 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:15:04 UTC] PHP Warning:  Error while sending QUERY packet. PID=31727 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:15:09 UTC] PHP Warning:  Error while sending QUERY packet. PID=31750 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:15:16 UTC] PHP Warning:  Error while sending QUERY packet. PID=31775 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:15:22 UTC] PHP Warning:  Error while sending QUERY packet. PID=31803 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:15:23 UTC] PHP Warning:  Error while sending QUERY packet. PID=31813 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:15:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=31826 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:15:31 UTC] PHP Warning:  Error while sending QUERY packet. PID=31775 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:15:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=31803 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:15:40 UTC] PHP Warning:  Error while sending QUERY packet. PID=31813 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:16:02 UTC] PHP Warning:  Error while sending QUERY packet. PID=32109 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:16:03 UTC] PHP Warning:  Error while sending QUERY packet. PID=32211 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:16:07 UTC] PHP Warning:  Error while sending QUERY packet. PID=32224 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=32340 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=32368 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:16:21 UTC] PHP Warning:  Error while sending QUERY packet. PID=32389 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:18:11 UTC] PHP Warning:  Error while sending QUERY packet. PID=392 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:18:15 UTC] PHP Warning:  Error while sending QUERY packet. PID=431 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:18:19 UTC] PHP Warning:  Error while sending QUERY packet. PID=407 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:18:23 UTC] PHP Warning:  Error while sending QUERY packet. PID=441 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:18:29 UTC] PHP Warning:  Error while sending QUERY packet. PID=454 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:18:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=468 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:18:41 UTC] PHP Warning:  Error while sending QUERY packet. PID=481 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:18:46 UTC] PHP Warning:  Error while sending QUERY packet. PID=501 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:19:37 UTC] PHP Warning:  Error while sending QUERY packet. PID=800 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 814
+[24-Nov-2019 17:19:40 UTC] PHP Warning:  Error while sending QUERY packet. PID=677 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:19:47 UTC] PHP Warning:  Error while sending QUERY packet. PID=642 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:19:51 UTC] PHP Warning:  Error while sending QUERY packet. PID=700 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:19:58 UTC] PHP Warning:  Error while sending QUERY packet. PID=716 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:20:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=736 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:20:09 UTC] PHP Warning:  Error while sending QUERY packet. PID=756 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:20:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=770 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:20:25 UTC] PHP Warning:  Error while sending QUERY packet. PID=787 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:20:32 UTC] PHP Warning:  Error while sending QUERY packet. PID=770 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:20:40 UTC] PHP Warning:  Error while sending QUERY packet. PID=787 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:20:49 UTC] PHP Warning:  Error while sending QUERY packet. PID=886 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:20:52 UTC] PHP Warning:  Error while sending QUERY packet. PID=897 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:20:55 UTC] PHP Warning:  Error while sending QUERY packet. PID=918 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:20:58 UTC] PHP Warning:  Error while sending QUERY packet. PID=927 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:21:02 UTC] PHP Warning:  Error while sending QUERY packet. PID=946 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:21:55 UTC] PHP Warning:  Error while sending QUERY packet. PID=1122 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:21:56 UTC] PHP Warning:  Error while sending QUERY packet. PID=1175 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:22:02 UTC] PHP Warning:  Error while sending QUERY packet. PID=1145 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:22:10 UTC] PHP Warning:  Error while sending QUERY packet. PID=1205 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:22:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=1221 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:22:21 UTC] PHP Warning:  Error while sending QUERY packet. PID=1252 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:22:25 UTC] PHP Warning:  Error while sending QUERY packet. PID=1277 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:22:28 UTC] PHP Warning:  Error while sending QUERY packet. PID=1295 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:22:36 UTC] PHP Warning:  Error while sending QUERY packet. PID=1315 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:23:14 UTC] PHP Warning:  Error while sending QUERY packet. PID=1427 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:23:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=1453 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:23:22 UTC] PHP Warning:  Error while sending QUERY packet. PID=1465 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:23:27 UTC] PHP Warning:  Error while sending QUERY packet. PID=1489 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:23:32 UTC] PHP Warning:  Error while sending QUERY packet. PID=1536 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:23:40 UTC] PHP Warning:  Error while sending QUERY packet. PID=1562 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:23:46 UTC] PHP Warning:  Error while sending QUERY packet. PID=1581 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:24:26 UTC] PHP Warning:  Error while sending QUERY packet. PID=1708 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:24:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=1734 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:24:34 UTC] PHP Warning:  Error while sending QUERY packet. PID=1688 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:24:36 UTC] PHP Warning:  Error while sending QUERY packet. PID=1773 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:24:42 UTC] PHP Warning:  Error while sending QUERY packet. PID=1801 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:24:47 UTC] PHP Warning:  Error while sending QUERY packet. PID=1823 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:24:51 UTC] PHP Warning:  Error while sending QUERY packet. PID=1849 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:24:56 UTC] PHP Warning:  Error while sending QUERY packet. PID=1867 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:25:02 UTC] PHP Warning:  Error while sending QUERY packet. PID=1880 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:25:50 UTC] PHP Warning:  Error while sending QUERY packet. PID=2029 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:25:53 UTC] PHP Warning:  Error while sending QUERY packet. PID=1987 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:25:58 UTC] PHP Warning:  Error while sending QUERY packet. PID=1997 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:25:59 UTC] PHP Warning:  Error while sending QUERY packet. PID=2061 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:26:07 UTC] PHP Warning:  Error while sending QUERY packet. PID=2086 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:26:11 UTC] PHP Warning:  Error while sending QUERY packet. PID=2104 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:26:15 UTC] PHP Warning:  Error while sending QUERY packet. PID=2123 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:26:19 UTC] PHP Warning:  Error while sending QUERY packet. PID=2313 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:26:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=2141 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:26:23 UTC] PHP Warning:  Error while sending QUERY packet. PID=2104 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:26:24 UTC] PHP Warning:  Error while sending QUERY packet. PID=2161 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:26:25 UTC] PHP Warning:  Error while sending QUERY packet. PID=2123 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:26:28 UTC] PHP Warning:  Error while sending QUERY packet. PID=2178 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:26:37 UTC] PHP Warning:  Error while sending QUERY packet. PID=2289 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:28:54 UTC] PHP Warning:  Error while sending QUERY packet. PID=2883 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:28:59 UTC] PHP Warning:  Error while sending QUERY packet. PID=2924 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:29:02 UTC] PHP Warning:  Error while sending QUERY packet. PID=2907 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:29:04 UTC] PHP Warning:  Error while sending QUERY packet. PID=2942 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:29:10 UTC] PHP Warning:  Error while sending QUERY packet. PID=2959 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:29:15 UTC] PHP Warning:  Error while sending QUERY packet. PID=2974 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:29:24 UTC] PHP Warning:  Error while sending QUERY packet. PID=2996 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:29:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=3016 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:30:20 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:30:20 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:30:28 UTC] PHP Warning:  Error while sending QUERY packet. PID=3197 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:30:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=3140 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:30:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=3162 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:30:36 UTC] PHP Warning:  Error while sending QUERY packet. PID=3218 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:30:46 UTC] PHP Warning:  Error while sending QUERY packet. PID=3239 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:30:50 UTC] PHP Warning:  Error while sending QUERY packet. PID=3259 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:30:52 UTC] PHP Warning:  Error while sending QUERY packet. PID=3279 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:30:59 UTC] PHP Warning:  Error while sending QUERY packet. PID=3296 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:31:07 UTC] PHP Warning:  Error while sending QUERY packet. PID=3313 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:31:08 UTC] PHP Warning:  mysqli_select_db(): MySQL server has gone away in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1093
+[24-Nov-2019 17:31:08 UTC] PHP Warning:  mysqli_select_db(): Error while reading INIT_DB's response packet. PID=3313 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1093
+[24-Nov-2019 17:31:08 UTC] WordPress database error MySQL server has gone away for query SELECT option_value FROM wp_options WHERE option_name = 'can_compress_scripts' LIMIT 1 made by include('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, wp_widgets_init, do_action('widgets_init'), WP_Hook->do_action, WP_Hook->apply_filters, WP_Widget_Factory->_register_widgets, WP_Widget->_register, WP_Widget_Text->_register_one, wp_add_inline_script, wp_scripts, WP_Scripts->__construct, WP_Scripts->init, do_action_ref_array('wp_default_scripts'), WP_Hook->do_action, WP_Hook->apply_filters, wp_default_packages, wp_register_tinymce_scripts, script_concat_settings, get_site_option, get_network_option, get_option
+[24-Nov-2019 17:31:15 UTC] PHP Warning:  Error while sending QUERY packet. PID=3296 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:31:34 UTC] PHP Warning:  Error while sending QUERY packet. PID=3477 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:31:37 UTC] PHP Warning:  Error while sending QUERY packet. PID=3497 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:31:40 UTC] PHP Warning:  Error while sending QUERY packet. PID=3508 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:31:45 UTC] PHP Warning:  Error while sending QUERY packet. PID=3535 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:32:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=3821 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:32:44 UTC] PHP Warning:  Error while sending QUERY packet. PID=3717 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:32:45 UTC] PHP Warning:  Error while sending QUERY packet. PID=3761 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:32:52 UTC] PHP Warning:  Error while sending QUERY packet. PID=3872 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:33:03 UTC] PHP Warning:  Error while sending QUERY packet. PID=3949 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:33:07 UTC] PHP Warning:  Error while sending QUERY packet. PID=3910 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:33:07 UTC] PHP Warning:  Error while sending QUERY packet. PID=3963 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:33:21 UTC] PHP Warning:  Error while sending QUERY packet. PID=4003 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:33:32 UTC] PHP Warning:  Error while sending QUERY packet. PID=3984 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:33:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=4003 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:33:47 UTC] PHP Warning:  Error while sending QUERY packet. PID=4128 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:33:51 UTC] PHP Warning:  Error while sending QUERY packet. PID=4157 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:33:54 UTC] PHP Warning:  Error while sending QUERY packet. PID=4176 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:33:58 UTC] PHP Warning:  Error while sending QUERY packet. PID=4199 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:35:01 UTC] PHP Warning:  Error while sending QUERY packet. PID=4431 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:35:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=4408 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:35:10 UTC] PHP Warning:  Error while sending QUERY packet. PID=4455 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:35:12 UTC] PHP Warning:  Error while sending QUERY packet. PID=4472 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:35:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=4488 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:35:24 UTC] PHP Warning:  Error while sending QUERY packet. PID=4504 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:35:34 UTC] PHP Warning:  Error while sending QUERY packet. PID=4519 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:36:13 UTC] PHP Warning:  Error while sending QUERY packet. PID=4598 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:36:15 UTC] PHP Warning:  Error while sending QUERY packet. PID=4673 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:36:16 UTC] PHP Warning:  Error while sending QUERY packet. PID=4674 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:36:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=4618 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:36:23 UTC] PHP Warning:  Error while sending QUERY packet. PID=4717 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:36:25 UTC] PHP Warning:  Error while sending QUERY packet. PID=4647 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:36:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=4737 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:36:35 UTC] PHP Warning:  Error while sending QUERY packet. PID=4759 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:36:41 UTC] PHP Warning:  Error while sending QUERY packet. PID=4777 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:36:47 UTC] PHP Warning:  Error while sending QUERY packet. PID=4791 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:36:52 UTC] PHP Warning:  Error while sending QUERY packet. PID=4808 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:37:22 UTC] PHP Warning:  Error while sending QUERY packet. PID=5088 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:37:27 UTC] PHP Warning:  Error while sending QUERY packet. PID=4905 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:37:32 UTC] PHP Warning:  Error while sending QUERY packet. PID=4929 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:37:36 UTC] PHP Warning:  Error while sending QUERY packet. PID=4886 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:37:38 UTC] PHP Warning:  Error while sending QUERY packet. PID=4950 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:37:46 UTC] PHP Warning:  Error while sending QUERY packet. PID=5005 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:37:51 UTC] PHP Warning:  Error while sending QUERY packet. PID=5024 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:37:55 UTC] PHP Warning:  Error while sending QUERY packet. PID=5045 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:38:04 UTC] PHP Warning:  Error while sending QUERY packet. PID=5072 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:38:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=5298 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:38:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=5072 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:38:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=5200 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:38:42 UTC] PHP Warning:  Error while sending QUERY packet. PID=5209 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:38:48 UTC] PHP Warning:  Error while sending QUERY packet. PID=5230 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:38:50 UTC] PHP Warning:  Error while sending QUERY packet. PID=5171 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:38:54 UTC] PHP Warning:  Error while sending QUERY packet. PID=5266 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:38:55 UTC] PHP Warning:  Error while sending QUERY packet. PID=5275 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:39:11 UTC] PHP Warning:  Error while sending QUERY packet. PID=5275 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:39:15 UTC] PHP Warning:  Error while sending QUERY packet. PID=5171 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:39:25 UTC] PHP Warning:  Error while sending QUERY packet. PID=5410 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:39:29 UTC] PHP Warning:  Error while sending QUERY packet. PID=5441 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:39:33 UTC] PHP Warning:  Error while sending QUERY packet. PID=5468 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:39:37 UTC] PHP Warning:  Error while sending QUERY packet. PID=5494 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:39:43 UTC] PHP Warning:  Error while sending QUERY packet. PID=5526 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:40:30 UTC] PHP Warning:  Error while sending QUERY packet. PID=5716 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:40:31 UTC] PHP Warning:  Error while sending QUERY packet. PID=5651 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:40:32 UTC] PHP Warning:  Error while sending QUERY packet. PID=5717 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:40:37 UTC] PHP Warning:  Error while sending QUERY packet. PID=5685 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:40:38 UTC] PHP Warning:  Error while sending QUERY packet. PID=5741 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:40:38 UTC] PHP Warning:  Error while sending QUERY packet. PID=5747 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:40:41 UTC] PHP Warning:  Error while sending QUERY packet. PID=5759 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:40:45 UTC] PHP Warning:  Error while sending QUERY packet. PID=5770 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:40:51 UTC] PHP Warning:  Error while sending QUERY packet. PID=5792 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:40:56 UTC] PHP Warning:  Error while sending QUERY packet. PID=5811 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:41:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=5831 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:41:43 UTC] PHP Warning:  Error while sending QUERY packet. PID=5969 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:41:49 UTC] PHP Warning:  Error while sending QUERY packet. PID=6001 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:41:54 UTC] PHP Warning:  Error while sending QUERY packet. PID=6034 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:42:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=6081 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:42:14 UTC] PHP Warning:  Error while sending QUERY packet. PID=6116 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:42:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=6142 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:42:23 UTC] PHP Warning:  Error while sending QUERY packet. PID=6160 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:42:26 UTC] PHP Warning:  Error while sending QUERY packet. PID=6177 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:43:03 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:43:03 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:43:08 UTC] PHP Warning:  Error while sending QUERY packet. PID=6343 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:43:10 UTC] PHP Warning:  Error while sending QUERY packet. PID=6290 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:43:12 UTC] PHP Warning:  Error while sending QUERY packet. PID=6373 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:43:23 UTC] PHP Warning:  Error while sending QUERY packet. PID=6392 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:43:31 UTC] PHP Warning:  Error while sending QUERY packet. PID=6414 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:43:32 UTC] PHP Warning:  Error while sending QUERY packet. PID=6433 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:43:38 UTC] PHP Warning:  Error while sending QUERY packet. PID=6455 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:43:40 UTC] PHP Warning:  Error while sending QUERY packet. PID=6476 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:43:46 UTC] PHP Warning:  Error while sending QUERY packet. PID=6486 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:43:47 UTC] PHP Warning:  Error while sending QUERY packet. PID=6670 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:43:48 UTC] PHP Warning:  Error while sending QUERY packet. PID=6433 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:43:50 UTC] PHP Warning:  Error while sending QUERY packet. PID=6414 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:43:53 UTC] PHP Warning:  Error while sending QUERY packet. PID=6476 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:43:55 UTC] PHP Warning:  Error while sending QUERY packet. PID=6455 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:44:07 UTC] PHP Warning:  Error while sending QUERY packet. PID=6577 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:44:09 UTC] PHP Warning:  Error while sending QUERY packet. PID=6610 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[24-Nov-2019 17:44:13 UTC] PHP Warning:  Error while sending QUERY packet. PID=6631 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[03-Dec-2019 11:43:05 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 190
+[03-Dec-2019 11:43:05 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 183
+[03-Dec-2019 11:43:05 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 190
+[03-Dec-2019 11:43:05 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 190
+[03-Dec-2019 11:43:06 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 190
+[03-Dec-2019 11:43:06 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 190
+[03-Dec-2019 11:43:06 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 190
+[03-Dec-2019 11:43:06 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 190
+[31-Dec-2019 21:40:38 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/formatting.php on line 5791
+[02-Feb-2020 09:40:28 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/formatting.php on line 5791
+[02-Feb-2020 09:40:28 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 190
+[02-Feb-2020 09:40:35 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/formatting.php on line 5791
+[02-Feb-2020 09:40:35 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 176
+[02-Feb-2020 09:40:35 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 190
+[02-Feb-2020 09:40:42 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 176
+[02-Feb-2020 09:40:42 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 176
+[02-Feb-2020 13:07:36 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 131072 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/post.php on line 3940
+[02-Feb-2020 13:07:36 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/formatting.php on line 1976
+[02-Feb-2020 13:07:36 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 175
+[02-Feb-2020 13:07:36 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 175
+[02-Feb-2020 13:07:36 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 176
+[09-Feb-2020 23:26:17 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 183
+[09-Feb-2020 23:26:19 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/formatting.php on line 5791
+[09-Feb-2020 23:26:20 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 190
+[05-Mar-2020 20:41:22 UTC] PHP Warning:  Error while sending QUERY packet. PID=17606 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[11-Mar-2020 17:18:14 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 32768 bytes) in /home/nersstikesmuhgom/public_html/wp-admin/includes/file.php on line 1448
+[12-Mar-2020 07:29:13 UTC] PHP Warning:  Error while sending QUERY packet. PID=12296 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[12-Mar-2020 07:29:23 UTC] PHP Warning:  Error while sending QUERY packet. PID=12306 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[12-Mar-2020 07:29:31 UTC] PHP Warning:  Error while sending QUERY packet. PID=12333 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[12-Mar-2020 07:29:31 UTC] PHP Warning:  Error while sending QUERY packet. PID=12309 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[17-Mar-2020 17:01:29 UTC] PHP Warning:  Error while sending QUERY packet. PID=9327 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[17-Mar-2020 22:54:54 UTC] PHP Warning:  Error while sending QUERY packet. PID=23830 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[18-Mar-2020 07:22:35 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/formatting.php on line 5791
+[18-Mar-2020 07:22:36 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/formatting.php on line 5791
+[18-Mar-2020 07:22:43 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 183
+[19-Mar-2020 00:28:29 UTC] PHP Warning:  Error while sending QUERY packet. PID=19878 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[20-Mar-2020 05:20:21 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 176
+[20-Mar-2020 05:20:21 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 176
+[20-Mar-2020 05:20:21 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/formatting.php on line 5791
+[20-Mar-2020 05:20:32 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 183
+[20-Mar-2020 12:00:40 UTC] PHP Warning:  Error while sending QUERY packet. PID=8523 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[20-Mar-2020 12:48:14 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 175
+[14-Apr-2020 15:42:41 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 190
+[14-Apr-2020 15:42:41 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/pluggable.php on line 2352
+[21-Apr-2020 07:54:07 UTC] PHP Warning:  Error while sending QUERY packet. PID=4528 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[26-Apr-2020 14:12:15 UTC] PHP Warning:  Error while sending QUERY packet. PID=7254 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2007
+[02-Jun-2020 18:10:10 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/formatting.php on line 5808
+[12-Jun-2020 15:34:53 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 131072 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/post.php on line 3949
+[13-Jun-2020 12:19:55 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 32768 bytes) in /home/nersstikesmuhgom/public_html/wp-admin/includes/user.php on line 1567
+[15-Jun-2020 00:04:28 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 178
+[15-Jun-2020 00:04:28 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 175
+[15-Jun-2020 00:04:28 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 176
+[15-Jun-2020 00:04:36 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 190
+[12-Jul-2020 18:39:04 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 182
+[12-Jul-2020 18:39:07 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 182
+[12-Jul-2020 18:39:08 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 182
+[23-Sep-2020 10:48:14 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/sodium_compat/autoload.php on line 30
+[23-Sep-2020 10:48:14 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/sodium_compat/autoload.php on line 30
+[23-Sep-2020 10:48:15 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/sodium_compat/autoload.php on line 30
+[23-Sep-2020 10:48:25 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 177
+[23-Sep-2020 10:48:25 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 182
+[23-Sep-2020 10:48:25 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 177
+[16-Oct-2020 21:08:01 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/sodium_compat/autoload.php on line 30
+[16-Oct-2020 21:08:01 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 183
+[16-Oct-2020 21:08:12 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 183
+[16-Oct-2020 21:08:12 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 183
+[22-Nov-2020 19:54:32 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/sodium_compat/autoload.php on line 30
+[01-Jan-2021 17:54:12 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/sodium_compat/autoload-php7.php on line 27
+[01-Jan-2021 17:54:12 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/sodium_compat/autoload-php7.php on line 27
+[01-Jan-2021 19:32:59 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 171
+[17-Jan-2021 12:25:07 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 180
+[25-Jan-2021 03:43:23 UTC] PHP Fatal error:  Out of memory (allocated 6291456) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-content/plugins/wps-visitor-counter/wps-visitor-counter.php on line 31
+[26-Jan-2021 07:53:06 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/sodium_compat/autoload-php7.php on line 27
+[21-Feb-2021 20:55:07 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 175
+[07-Mar-2021 02:54:21 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 171
+[28-Apr-2021 18:47:30 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/nersstikesmuhgom/public_html/wp-includes/class-wp-query.php on line 779
+[29-Apr-2021 17:01:10 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/nersstikesmuhgom/public_html/wp-includes/class-wp-query.php on line 779
+[27-May-2021 08:50:22 UTC] WordPress database error Disk full (/tmp/#sql_5018_0.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SELECT  t.*, tt.*, tr.object_id FROM wp_terms AS t  INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN wp_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('category', 'post_tag', 'post_format') AND tr.object_id IN (308, 314, 341, 351, 356, 360, 372, 384, 400, 421) ORDER BY t.name ASC  made by require('wp-blog-header.php'), wp, WP->main, WP->query_posts, WP_Query->query, WP_Query->get_posts, _prime_post_caches, update_post_caches, update_object_term_cache, wp_get_object_terms, get_terms, WP_Term_Query->query, WP_Term_Query->get_terms
+[27-May-2021 08:57:07 UTC] WordPress database error Disk full (/tmp/#sql_5018_0.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SELECT  t.*, tt.*, tr.object_id FROM wp_terms AS t  INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN wp_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('category', 'post_tag', 'post_format') AND tr.object_id IN (360, 372, 384, 400, 421) [02-Jun-2021 02:54:55 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 109
+[02-Jun-2021 02:54:55 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/sodium_compat/autoload-php7.php on line 27
+[02-Jun-2021 02:54:55 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/sodium_compat/autoload-php7.php on line 27
+[02-Jun-2021 02:55:23 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 180
+[02-Jun-2021 02:55:23 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 175
+[02-Jun-2021 02:55:23 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 175
+[02-Jun-2021 02:55:24 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 175
+[02-Jun-2021 02:55:36 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 109
+[02-Jun-2021 02:55:36 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 181
+[02-Jun-2021 02:55:40 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 171
+[02-Jun-2021 02:56:03 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 180
+[02-Jun-2021 02:56:03 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-settings.php on line 175
+[02-Jun-2021 06:37:49 UTC] WordPress database error Disk full (/tmp/#sql_5018_0.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_reschedule_event, wp_schedule_event, _set_cron_array, update_option
+[02-Jun-2021 06:37:49 UTC] WordPress database error Disk full (/tmp/#sql_5018_0.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_unschedule_event, _set_cron_array, update_option
+[02-Jun-2021 06:37:49 UTC] WordPress database error Disk full (/tmp/#sql_5018_0.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by delete_transient, delete_option
+[02-Jun-2021 06:38:40 UTC] WordPress database error Disk full (/tmp/#sql_5018_0.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, wp_cron, spawn_cron, set_transient, update_option
+[02-Jun-2021 06:38:52 UTC] WordPress database error Disk full (/tmp/#sql_5018_0.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, wp_cron, spawn_cron, set_transient, update_option
+[02-Jun-2021 06:39:06 UTC] WordPress database error Disk full (/tmp/#sql_5018_0.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by require_once('wp-load.php'), re[05-Jul-2021 05:48:46 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 65536 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/sodium_compat/autoload-php7.php on line 27
+[07-Jul-2021 11:15:24 UTC] WordPress database error Disk full (/tmp/#sql_32d_0.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SELECT  t.*, tt.*, tr.object_id FROM wp_terms AS t  INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN wp_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('category', 'post_tag', 'post_format') AND tr.object_id IN (360, 372, 384, 400, 421) ORDER BY t.name ASC  made by require('wp-blog-header.php'), require_once('wp-includes/template-loader.php'), include('/themes/newsanchor/page.php'), get_footer, locate_template, load_template, require_once('/themes/newsanchor/footer.php'), get_sidebar, locate_template, load_template, require_once('/themes/newsanchor/sidebar-footer.php'), dynamic_sidebar, WP_Widget->display_callback, WP_Widget_Recent_Posts->widget, WP_Query->__construct, WP_Query->query, WP_Query->get_posts, _prime_post_caches, update_post_caches, update_object_term_cache, wp_get_object_terms, get_terms, WP_Term_Query->query, WP_Term_Query->get_terms
+[07-Jul-2021 11:15:24 UTC] WordPress database error Disk full (/tmp/#sql_32d_0.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_reschedule_event, wp_schedule_event, _set_cron_array, update_option
+[07-Jul-2021 11:15:24 UTC] WordPress database error Disk full (/tmp/#sql_32d_0.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by wp_unschedule_event, _set_cron_array, update_option
+[07-Jul-2021 11:15:24 UTC] WordPress database error Disk full (/tmp/#sql_32d_0.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by delete_transient, delete_option
+[07-Jul-2021 11:20:54 UTC] WordPress database error Disk full (/tmp/#sql_32d_0.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, wp_cron, spawn_cron, set_transient, update_option
+[07-Jul-2021 11:20:55 UTC] WordPress database error Disk full (/tmp/#sql_32d_0.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SELECT  t.*, tt.*, tr.object_id FROM wp_terms AS t  INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id INNER JOIN wp_term_relationships AS tr ON tr.term_taxonomy_id = tt.term_taxonomy_id WHERE tt.taxonomy IN ('category', 'post_tag', 'post_format') AND tr.object_id IN (308, 314, 341, 351, 356, 360, 372, 384, 400, 421) ORDER BY t.name ASC  made by require('wp-blog-header.php'), wp, WP->main, WP->query_posts, WP_Query->query, WP_Query->get_posts, _prime_post_caches, update_post_caches, update_object_term_cache, wp_get_object_terms, get_terms, WP_Term_Query->query, WP_Term_Query->get_terms
+[07-Jul-2021 11:21:00 UTC] WordPress database error Disk full (/tmp/#sql_32d_0.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SHOW FULL COLUMNS FROM `wp_options` made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), do_action('init'), WP_Hook->do_action, WP_Hook->apply_filters, wp_cron, spawn_cron, set_transient, update_option
+[07-Jul-2021 11:21:01 UTC] WordPress database error Disk full (/tmp/#sql_32d_0.MAI); waiting for someone to free some space... (errno: 28 "No space left on device") for query SELECT  t.*, tt.*, tr.object_id FROM wp_terms AS t  INNER JOIN wp_term_taxonomy AS tt ON t.term_id = tt.term_id IN[18-Aug-2021 20:22:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=25968 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2056
+[18-Aug-2021 20:23:10 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2056
+[18-Aug-2021 20:23:10 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 2056

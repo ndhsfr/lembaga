@@ -1,0 +1,283 @@
+[06-Nov-2018 16:34:57 UTC] PHP Warning:  Error while sending QUERY packet. PID=16613 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[06-Nov-2018 16:35:02 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3782
+[09-Nov-2018 22:03:16 UTC] PHP Warning:  Error while sending QUERY packet. PID=32563 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[09-Nov-2018 22:03:21 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3782
+[12-Nov-2018 02:14:49 UTC] PHP Warning:  Error while sending QUERY packet. PID=20137 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[12-Nov-2018 02:14:54 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3782
+[18-Nov-2018 00:04:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=18948 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[18-Nov-2018 00:04:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=18933 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[18-Nov-2018 00:04:39 UTC] PHP Warning:  Error while sending QUERY packet. PID=18908 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[18-Nov-2018 00:04:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3782
+[18-Nov-2018 00:04:44 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3782
+[22-Jan-2019 04:46:54 UTC] PHP Warning:  file_get_contents(http://api.xtrsyz.org/xt-visitor-counter/default.php?domain=s1kepners.stikesmuhgombong.ac.id&amp;time=1548132409): failed to open stream: Connection timed out in /home/nersstikesmuhgom/public_html/wp-content/plugins/xt-visitor-counter/xt-visitor-counter.php on line 48
+[22-Jan-2019 04:55:28 UTC] WordPress database error Table 'nersstikesmuhgom_dbwebs1kep.wp_imagecounter' doesn't exist for query SELECT hitcounter, imagename, flag FROM wp_imagecounter made by require('wp-blog-header.php'), require_once('wp-load.php'), require_once('wp-config.php'), require_once('wp-settings.php'), include_once('/plugins/wordpress-hit-counter/image.php'), perform_install
+[28-Mar-2019 06:18:44 UTC] PHP Warning:  trim() expects parameter 1 to be string, array given in /home/nersstikesmuhgom/public_html/wp-includes/class-wp-query.php on line 736
+[29-Apr-2019 22:41:19 UTC] PHP Warning:  Error while sending QUERY packet. PID=24213 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[06-May-2019 15:20:50 UTC] PHP Warning:  Error while sending QUERY packet. PID=28213 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[12-May-2019 22:44:26 UTC] PHP Warning:  Error while sending QUERY packet. PID=19725 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[10-Jun-2019 03:59:31 UTC] PHP Warning:  Error while sending QUERY packet. PID=17956 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[01-Aug-2019 21:19:13 UTC] PHP Warning:  Error while sending QUERY packet. PID=10718 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[01-Aug-2019 21:19:18 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3852
+[08-Aug-2019 21:22:45 UTC] PHP Warning:  Error while sending QUERY packet. PID=20550 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[08-Aug-2019 21:22:45 UTC] PHP Warning:  Error while sending QUERY packet. PID=20642 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[08-Aug-2019 21:22:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3852
+[08-Aug-2019 21:22:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3852
+[25-Sep-2019 05:56:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=29486 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Sep-2019 05:56:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=29520 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Sep-2019 05:56:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3852
+[25-Sep-2019 05:56:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3852
+[26-Sep-2019 08:43:14 UTC] PHP Warning:  Error while sending QUERY packet. PID=3109 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[26-Sep-2019 08:43:14 UTC] PHP Warning:  Error while sending QUERY packet. PID=3139 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[26-Sep-2019 08:43:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3852
+[26-Sep-2019 08:43:19 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3852
+[27-Sep-2019 00:27:21 UTC] PHP Warning:  Error while sending QUERY packet. PID=14595 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[27-Sep-2019 00:27:21 UTC] PHP Warning:  Error while sending QUERY packet. PID=14571 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[27-Sep-2019 00:27:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3852
+[27-Sep-2019 00:27:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3852
+[27-Sep-2019 09:38:11 UTC] PHP Fatal error:  Out of memory (allocated 1048576) (tried to allocate 12288 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 2332
+[27-Sep-2019 09:39:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=10271 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[27-Sep-2019 09:39:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3852
+[28-Sep-2019 00:43:16 UTC] PHP Fatal error:  Out of memory (allocated 1310720) (tried to allocate 6000 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 4437
+[28-Sep-2019 00:44:15 UTC] PHP Warning:  Error while sending QUERY packet. PID=1533 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[28-Sep-2019 00:44:20 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3852
+[30-Sep-2019 10:14:14 UTC] PHP Fatal error:  Out of memory (allocated 1572864) (tried to allocate 48000 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/class-wp.php on line 376
+[30-Sep-2019 10:15:29 UTC] PHP Warning:  Error while sending QUERY packet. PID=16575 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[30-Sep-2019 10:15:34 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3852
+[02-Oct-2019 01:34:30 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 329280 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/script-loader.php on line 1645
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8543 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8569 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8537 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8545 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8553 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8582 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8547 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8548 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8542 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  mysqli_query(): MySQL server has gone away in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  mysqli_query(): Error reading result set's header in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8552 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8538 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8575 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8559 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8567 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8555 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8562 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8566 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8539 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8572 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8557 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8544 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8573 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8561 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8576 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8550 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8554 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8577 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8564 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8540 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8571 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8580 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8570 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8541 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8563 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8581 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8585 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:05 UTC] PHP Warning:  Error while sending QUERY packet. PID=8549 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:06 UTC] PHP Warning:  Error while sending QUERY packet. PID=8556 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:06 UTC] PHP Warning:  Error while sending QUERY packet. PID=8530 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:06 UTC] PHP Warning:  Error while sending QUERY packet. PID=8587 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[25-Oct-2019 16:08:06 UTC] PHP Warning:  Error while sending QUERY packet. PID=8588 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:32:16 UTC] PHP Fatal error:  Out of memory (allocated 4194304) (tried to allocate 328000 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/formatting.php on line 5332
+[31-Oct-2019 02:32:16 UTC] PHP Fatal error:  Out of memory (allocated 3145728) (tried to allocate 786432 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/formatting.php on line 5331
+[31-Oct-2019 02:32:16 UTC] PHP Fatal error:  Out of memory (allocated 4718592) (tried to allocate 196704 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/formatting.php on line 5332
+[31-Oct-2019 02:32:25 UTC] PHP Fatal error:  Out of memory (allocated 2621440) (tried to allocate 196608 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/formatting.php on line 5323
+[31-Oct-2019 02:32:25 UTC] PHP Fatal error:  Out of memory (allocated 4718592) (tried to allocate 196704 bytes) in /home/nersstikesmuhgom/public_html/wp-includes/formatting.php on line 5332
+[31-Oct-2019 02:32:54 UTC] PHP Warning:  Error while sending QUERY packet. PID=8527 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:13 UTC] PHP Warning:  Error while sending QUERY packet. PID=8548 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:13 UTC] PHP Warning:  Error while sending QUERY packet. PID=8538 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:13 UTC] PHP Warning:  Error while sending QUERY packet. PID=8560 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:13 UTC] PHP Warning:  Error while sending QUERY packet. PID=8545 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:13 UTC] PHP Warning:  Error while sending QUERY packet. PID=8547 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:14 UTC] PHP Warning:  Error while sending QUERY packet. PID=8558 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:14 UTC] PHP Warning:  Error while sending QUERY packet. PID=8551 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:14 UTC] PHP Warning:  Error while sending QUERY packet. PID=8544 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:14 UTC] PHP Warning:  Error while sending QUERY packet. PID=8554 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:14 UTC] PHP Warning:  Error while sending QUERY packet. PID=8552 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:14 UTC] PHP Warning:  Error while sending QUERY packet. PID=8553 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:14 UTC] PHP Warning:  Error while sending QUERY packet. PID=8567 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:14 UTC] PHP Warning:  Error while sending QUERY packet. PID=8537 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:14 UTC] PHP Warning:  Error while sending QUERY packet. PID=8543 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:15 UTC] PHP Warning:  Error while sending QUERY packet. PID=8563 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:15 UTC] PHP Warning:  Error while sending QUERY packet. PID=8556 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:15 UTC] PHP Warning:  Error while sending QUERY packet. PID=8541 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:15 UTC] PHP Warning:  Error while sending QUERY packet. PID=8561 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:15 UTC] PHP Warning:  Error while sending QUERY packet. PID=8562 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:15 UTC] PHP Warning:  Error while sending QUERY packet. PID=8568 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:15 UTC] PHP Warning:  Error while sending QUERY packet. PID=8555 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:15 UTC] PHP Warning:  Error while sending QUERY packet. PID=8569 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:16 UTC] PHP Warning:  Error while sending QUERY packet. PID=8566 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:16 UTC] PHP Warning:  Error while sending QUERY packet. PID=8573 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:16 UTC] PHP Warning:  Error while sending QUERY packet. PID=8565 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=8571 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=8577 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=8572 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=8570 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=8576 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=8593 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=8592 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=8578 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=8589 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=8574 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=8575 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=8586 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=8579 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=8583 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=8588 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=8603 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=8581 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=8590 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=8616 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=8580 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=8602 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=8598 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=8600 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=8610 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=8606 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=8601 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:19 UTC] PHP Warning:  Error while sending QUERY packet. PID=8599 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:19 UTC] PHP Warning:  Error while sending QUERY packet. PID=8594 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:19 UTC] PHP Warning:  Error while sending QUERY packet. PID=8609 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:19 UTC] PHP Warning:  Error while sending QUERY packet. PID=8597 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:19 UTC] PHP Warning:  Error while sending QUERY packet. PID=8596 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:19 UTC] PHP Warning:  Error while sending QUERY packet. PID=8604 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:19 UTC] PHP Warning:  Error while sending QUERY packet. PID=8595 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:19 UTC] PHP Warning:  Error while sending QUERY packet. PID=8608 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=8664 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 02:33:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=8668 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=27537 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=27524 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=27549 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=27542 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:17 UTC] PHP Warning:  Error while sending QUERY packet. PID=27532 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=27552 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=27525 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=27530 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=27527 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=27529 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:18 UTC] PHP Warning:  Error while sending QUERY packet. PID=27547 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:19 UTC] PHP Warning:  Error while sending QUERY packet. PID=27540 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:19 UTC] PHP Warning:  Error while sending QUERY packet. PID=27548 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:19 UTC] PHP Warning:  Error while sending QUERY packet. PID=27523 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:19 UTC] PHP Warning:  Error while sending QUERY packet. PID=27533 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:19 UTC] PHP Warning:  Error while sending QUERY packet. PID=27555 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:19 UTC] PHP Warning:  Error while sending QUERY packet. PID=27553 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27538 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27539 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27531 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27545 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27562 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27543 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27570 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27550 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27534 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27576 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27536 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27554 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27575 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27551 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27579 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27559 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27546 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27541 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27558 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27574 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27572 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27563 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27588 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27578 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27584 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27591 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27561 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27585 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27573 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27586 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27590 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27580 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27589 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27583 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:20 UTC] PHP Warning:  Error while sending QUERY packet. PID=27582 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:22 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:23 UTC] PHP Warning:  Error while sending QUERY packet. PID=27594 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:23 UTC] PHP Warning:  Error while sending QUERY packet. PID=27592 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[31-Oct-2019 10:16:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:25 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[31-Oct-2019 10:16:28 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[01-Nov-2019 13:23:28 UTC] PHP Warning:  Error while sending QUERY packet. PID=20312 in /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php on line 1924
+[01-Nov-2019 13:23:33 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nersstikesmuhgom/public_html/wp-includes/wp-db.php:1924) in /home/nersstikesmuhgom/public_html/wp-includes/functions.php on line 3857
+[08-Nov-2019 07:40:12 UTC] PHP Fatal error:  Out of memory (allocated 262144) (tried to allocate 3840 bytes) in /home/nersstikesmuhgom/public_html/wp-login.php on line 111
