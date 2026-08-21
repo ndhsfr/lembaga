@@ -26,7 +26,7 @@ define( 'DB_NAME', 'db_lpm_unimugo' );
 define( 'DB_USER', 'user_lpm_unimugo' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'LpmUnimugo2026!#' );
+define( 'DB_PASSWORD', 'LpmUnimugo2026@' );
 
 /** Database hostname */
 define( 'DB_HOST', 'localhost' );
